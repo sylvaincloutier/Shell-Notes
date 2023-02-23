@@ -1,2 +1,2 @@
 # Shell-Notes
-AJ course
+Just one Beyonder's Shell Notes
